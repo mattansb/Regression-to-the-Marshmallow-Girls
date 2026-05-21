@@ -17,7 +17,8 @@ and graduate students from [the Psychology Department at Ben-Gurion University](
 volunteered to eat some marshmallows.
 (Two additional data points were collected from me and my wife, Naama.)
 
-The experiment had two parts: the triangle test and the identification test.
+The experiment had two parts: the triangle test and the identification test - 
+a modren take on [the lady tasting tea experiment](https://en.wikipedia.org/wiki/Lady_tasting_tea).
 
 ### Design
 
@@ -48,3 +49,11 @@ See [the code file](script.R) for the actual analysis.
 ### Signal Detection Theory (SDT)
 
 ![](/outputs/fig-sdt.png)
+
+---
+
+## Addendum
+
+_May 21st 2026 update:_ I recived an official response from a food scientist on behalf of the marshmallow company:
+
+> There of no differences in the ingredients except for the color and the pink marshmallow contains strawberry extract.
