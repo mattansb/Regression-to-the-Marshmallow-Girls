@@ -56,4 +56,4 @@ See [the code file](script.R) for the actual analysis.
 
 _May 21st 2026 update:_ I recived an official response from a food scientist on behalf of the marshmallow company:
 
-> There of no differences in the ingredients except for the color and the pink marshmallow contains strawberry extract.
+> There are no differences in the ingredients besides the colors, and the pink marshmallow contains strawberry extract.
